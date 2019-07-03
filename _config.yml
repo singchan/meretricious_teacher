@@ -1,7 +1,7 @@
 remote_theme: yous/whiteglass
-title: whiteglass theme
-author: Yous
-description: 'Minimal, responsive Jekyll theme for hackers.'
+title: Test stastic
+author: singchan
+description: A test to admin your Jekyll site with Stastic
 baseurl: /meretricious_teacher
 url: 'https://yous.github.io'
 lang: en
